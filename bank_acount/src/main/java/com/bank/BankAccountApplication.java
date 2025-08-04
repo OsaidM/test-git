@@ -19,6 +19,8 @@ public class BankAccountApplication {
         BankAccount Ahmad = new BankAccount(550, 150);
         BankAccount Omar = new BankAccount(400, 70);
         BankAccount Ola = new BankAccount(400, 70);
+        BankAccount Omar = new BankAccount(400, 70);
+        BankAccount Ola = new BankAccount(400, 70);
         
         
         Osaid.withdraw(500, 1);
